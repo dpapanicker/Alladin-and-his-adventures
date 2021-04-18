@@ -1,1 +1,2 @@
-# Alladin-and-his-adventures
+# AladdinAdventures
+A multi level game for Aladdin fans
